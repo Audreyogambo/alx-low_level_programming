@@ -1,1 +1,1 @@
-Introduction to c low level programming
+Introduction to c low level programming and advanced tasks.
