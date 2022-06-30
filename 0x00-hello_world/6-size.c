@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - Prints sized of characters
- *Return: Always 0 (success)
+ *Return: 0 if exited properly, non-zero otherwise
  */
 int main(void);
 {
