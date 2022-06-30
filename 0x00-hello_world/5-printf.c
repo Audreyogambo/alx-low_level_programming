@@ -2,7 +2,7 @@
 
 /**
  * main - Print a string
- * 
+ *
  * Return: 0
  */
 
