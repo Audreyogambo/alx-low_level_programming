@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
 * main -> program finds and prints even-valued terms
 * Return: always 0 Success
 */
